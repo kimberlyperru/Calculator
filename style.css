@@ -49,9 +49,9 @@ form .display input{
 
 }
 
-form input.equal{
+/* form input.equal{
     width: 145px;
-}
+} */
 
 form input.operator{
    color: #2e1031; 
