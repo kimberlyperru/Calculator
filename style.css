@@ -29,7 +29,7 @@
     box-shadow: 8px 8px 15px #2e1031,
                 -8px -8px 15px #4e065f;
     font-size: 20px;
-    color: #fff;
+    color: #8c00b3;
     background:#f2b7f7;
     cursor: pointer;
     margin: 10px;          
@@ -56,4 +56,13 @@ form .display input{
 form input.operator{
    color: #2e1031; 
 
+}
+
+.h1{
+    color: #f2b7f7;
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: #4e065f 2px 2px 5px;
 }
